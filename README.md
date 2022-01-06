@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vigneshraja
-- 👀 I’m interested in Python, Web Development and Flutter
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Python, Web Development and React Native
+- 🌱 I’m currently learning Frontend Development
 - 📫 vigneshrajaks@gmail.com
