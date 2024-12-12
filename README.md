@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Vignesh Raja**
+# 👋 Yo, I’m **Vigneshraja**
 
 💻 **Web Developer**  
 🚀 *Currently mastering* **JavaScript**
@@ -22,6 +22,7 @@
 ### 📬 **Let’s Connect**
 [📧 Email Me](mailto:vigneshrajaks@gmail.com)  
 
----
+✨✨✨
 
 🎯 *"Learn. Code. Build. Repeat."*
+
