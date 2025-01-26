@@ -3,7 +3,6 @@
 💻 **Web Developer**  
 🚀 *Currently mastering* **JavaScript**
 
----
 
 ### 🛠️ **Tech Stack**
 **Frontend:**  
